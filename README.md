@@ -52,3 +52,4 @@ In the MediafireSDK Project under "Build Settings" change "Base SDK" to `OS X 10
 ## Usage
 
 Developed for use with iOS 7.0+ and OSX 10.9+
+
